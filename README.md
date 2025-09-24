@@ -1,6 +1,6 @@
 <!-- GitHub Profile Revamp Template -->
 
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm [Swazy Dennis]</h1>
 <h3 align="center">🌟 Frontend Developer | Lifelong Learner | Problem-Solver</h3>
 
 ---
@@ -8,8 +8,8 @@
 ## 🚀 About Me
 <p>
 I am a learner of the <b>ALX ProDev Frontend Program</b>, passionate about crafting interactive, user-friendly, and impactful web applications.  
-I started my journey with software engineering because [insert your reason here].  
-What inspires me most is [insert inspiration].  
+I started my journey with software engineering because [Love to problem-solving].  
+What inspires me most is [Global connection].  
 My aim is to tackle <b>hard problems</b> and bring solutions that make technology more accessible and meaningful.  
 </p>
 
